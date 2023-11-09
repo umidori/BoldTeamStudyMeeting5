@@ -1,0 +1,9 @@
+A	carrot	150
+A	lettuce	200
+A	radish	100
+B	biscuit	250
+B	candy	130
+B	cracker	160
+C	apple	170
+C	melon	190
+C	orange	180

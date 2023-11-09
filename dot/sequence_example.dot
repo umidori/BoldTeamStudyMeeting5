@@ -1,0 +1,14 @@
+graph {
+    label=""
+    labelloc=t
+    labeljust=l
+    rankdir=UD
+    node [widht=1, height=0.5, shape=rectangle, fontsize=14]
+
+    "名前" -- "姓" 
+    "名前" -- "名"
+    "年月日" -- "年"
+    "年月日" -- "月"
+    "年月日" -- "日"
+}
+

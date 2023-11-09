@@ -1,0 +1,14 @@
+A	carrot	150
+A	lettuce	200
+A	radish	100
+小計		450
+B	biscuit	250
+B	candy	130
+B	cracker	160
+小計		540
+C	apple	170
+C	melon	190
+C	orange	180
+小計		540
+合計		1530
+

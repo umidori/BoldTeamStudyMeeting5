@@ -1,0 +1,21 @@
+graph {
+    label=""
+    labelloc=t
+    labeljust=l
+    rankdir=UD
+    node [widht=1, height=0.5, shape=rectangle, fontsize=14]
+
+    "性別" -- "　　⚪︎
+男"
+    "性別" -- "　　⚪︎
+女"
+    "血液型" -- "　　⚪︎
+A" 
+    "血液型" -- "　　⚪︎
+B" 
+    "血液型" -- "　　⚪︎
+O" 
+    "血液型" -- "　　⚪︎
+AB" 
+}
+

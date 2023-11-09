@@ -1,0 +1,20 @@
+P	A	carrot	150
+P	A	lettuce	200
+P	A	radish	100
+小計			450
+P	B	biscuit	250
+P	B	candy	130
+P	B	cracker	160
+小計			540
+P	C	apple	170
+P	C	melon	190
+P	C	orange	180
+小計			540
+中計			1530
+S	A	smile	0
+小計			0
+S	B	quoate	180
+S	B	repair	100
+小計			280
+中計			280
+合計			1810

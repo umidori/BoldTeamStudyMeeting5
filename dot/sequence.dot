@@ -1,0 +1,12 @@
+graph {
+    label=""
+    labelloc=t
+    labeljust=l
+    rankdir=UD
+    node [widht=1, height=0.5, shape=rectangle, fontsize=14]
+
+    A -- B 
+    A -- C
+    A -- D
+}
+

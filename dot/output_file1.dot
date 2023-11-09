@@ -1,0 +1,17 @@
+graph {
+    label=""
+    labelloc=t
+    labeljust=l
+    rankdir=UD
+    node [widht=1, height=0.5, shape=rectangle, fontsize=14]
+
+    出力ファイル -- 商品グループの集合
+    出力ファイル -- 商品グループの価格の合計
+    商品グループの集合 -- "　　　　　*
+商品グループ"
+    商品グループの集合 -- "商品グループの価格
+（商品コードが同じ行の価格の合計）"
+    "　　　　　*
+商品グループ" -- "　　　　　　　　*
+商品コードが同じ行"
+}
